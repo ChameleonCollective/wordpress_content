@@ -1,0 +1,49 @@
+---
+ID: 931
+post_title: Behavioral Advertising Invades Privacy
+author: Damion Parsons
+post_excerpt: ""
+layout: post
+permalink: >
+  https://chameleon.co/blog/2008/09/15/behavioral-advertising-invades-privacy/
+published: true
+post_date: 2008-09-15 00:00:00
+---
+<strong>Introduction
+</strong>Imagine a device that scan all internet activity and throttle p2p traffic, reduce spam, protect against hacking attacks, scan against viruses, all done in real time for millions of users. Now imagine the same device can also read all your email, know what sites you visit, see every form post you submit, read every instant message you send, know about every comment you make on social networks, know about your buying habits, know about your searches, know about the videos  you watch, know about the music you listen to, and imagine that this device stores all this information about build a really detailed behavioral profile on you, and partners with advertisers to target the perfect adverb specifically for you.<!--more-->
+
+<strong>Behavioral Targeting Advertising
+</strong>Behavioral targeting is a technique used by online publishers and advertisers to increase the effectiveness of their campaigns. It uses information collected on an individual's web-browsing behavior, such as the pages they have visited or the searches they have made, to select which advertisements to display to that individual. ISPs route all customers' traffic, thus they are able to monitor web-browsing habits in a very detailed way allowing them to gain information about their customers' interests, which can be used by companies specializing in targeted advertising. At least 100,000 US customers are tracked this way, and as many of 10% of US customers have been tracked in this way at one point. Technology providers include NebuAd, Front Porch, and Phorm.
+
+<strong>Deep Packet Inspection Background
+</strong>Deep Packet Inspection ("DPI") is a computer network packet filtering technique that involves the inspection of the contents of packets as they are transmitted across the network. DPI is sometimes referred to as "complete packet inspection." Owing to the volume of traffic on most networks, DPI is usually automated and performed by software based on criteria set by the network operator. Deep Packet Inspection can be used to determine the contents of all unencrypted data transferred over a network. Since most Internet traffic is unencrypted, DPI enables Internet Service Providers ("ISPs") to intercept virtually all of their customers' Internet activity, including web surfing data, email, and peer-to-peer downloads. After inspecting the contents of users' packers, ISPs can use DPI to perform activities based on filter criteria. Deep Packet Inspection has been used in attempts to: build profiles of consumers for marketing purposes; intercept communications at the request of law enforcement (both with and without warrants); enforce copyright laws; prioritize the transmission of some packets over others; and identify computer viruses and spam -- as described by the electronic privacy information center.
+
+Deep packet inspection — the secret harvesting of granular details about individual internet activity so companies can make better guesses about what to sell you — has been facing a slow death in the U.S. NebuAd, the leader on these shores, has shed employees and lost its CEO amid public backlash and intense congressional scrutiny that led one legislator to question if what they were doing was even legal -- greatly quoted by wired.
+
+Critics have likened deep-packet inspection to the phone company tapping a call. The technology allows a window into potentially see all of a consumer's online activity, from Web surfing and search terms to any unencrypted web communication --says the Washington Post. I’d like to emphasize the term unencrypted, as no deep packet inspection can monitor any activity performed over a secure layer channel, therefore as long as you ensure that all your personal information is always being transmitted over SSL, no middle tear company seating at the ISP can store it.
+
+<strong>NebuAd -- US’s largest DPI advertiser
+</strong>NebuAd is an American online advertising company, and it is one of several companies developing behavioral targeting advertising systems, seeking deals with ISPs to enable them to analyze customer's web surfing habits in order to provide them with more relevant, micro-targeted advertising.
+NebuAd's solution has three main parts: Hardware hosted within the ISP that is capable of inserting content into pages, an off-site server complex to analyze and categorize the contents of users' Internet communications, and relationships with advertising networks willing to present NebuAd's targeted advertising.
+
+NebuAd's privacy policy says that they will "specifically not store or use any information relating to confidential medical information, racial or ethnic origins, religious beliefs, or sexuality which are tied to personally identifiable information". NebuAd’s former CEO Bob Dykes argues that at the top of that privacy policy list is requiring ISPs to use an opt-in regime when deploying NebuAd's DPI technology, a notion Dykes said would dilute the effectiveness of the program. "No one, not even the government, can determine the identity of our users"
+
+Due to fallout following public and Congressional concern, their largest customers have all pulled out and as of September 1, 2008, and no ISP is known to be using NebuAd as of today.
+
+<strong>Phorm -- UK’s largest DPI advertiser
+</strong>British firm Phorm provides a similar service as NebuAd, but has so far managed to steer through the death-inducing scrutiny and negative press. While Nebuad's ISP partners have raced for the exits, the British advertising technology company has announced instead that “significant and accelerated” progress has been made toward launching a trial of its online advertising platform with Internet service provider BT Group and has plans to work with ISPs that provide service to 70 percent of the country [says wired], though [free press] announced that a recent ISPreview survey found 57 percent of readers would leave their ISP if they learned it had partnered with Phorm.
+
+<strong>Google Chrome -- potential root level DPI advertiser
+</strong>I <a title="Google Chrome: The Google Browser" href="https://takemetoyourleader.com/2008/09/01/google-chrome-the-google-browser/">recently blogged</a> about Google Chrome’s information tapping and their horrible EULA. Days after release, Google announced it would change how long it stores the IP addresses of its users without anonymizing the information, from 18 down to 9 months. This doesn’t change the fact that they reserve the right to monitor, store, and use all information when using Chrome. They were already doing it before with the Toolbar, but this is different; the toolbar only send searches, Chrome has access to every form post, no matter if it’s encrypted through SSL or not.
+
+While Google listens to criticism and modifies their EULA immediately, they still try to justify it as read below:
+“While we’re glad that this will bring some additional improvement in privacy, we’re also concerned about the potential loss of security, quality, and innovation that may result from having less data. As the period prior to anonymization gets shorter, the added privacy benefits are less significant and the utility lost from the data grows. So, it’s difficult to find the perfect equilibrium between privacy on the one hand, and other factors, such as innovation and security, on the other.”
+
+<strong>The Good
+</strong>Behavioral targeting enriches the internet on several fronts: Firstly, website owners are offered an improved click-through rate (CTR), which could increase profits or reduce the amount of page-space dedicated to advertising. Owners of previously thought ad-unfriendly websites are offered a chance to make money not on the subject matter of their website but on the interests of their visitors. Secondly, Advertisers are offered better targeted adverts, hence reducing the scattergun approach --publish as many ads as possible in the hope of catching a client-- and users are offered more relevant adverts. For last, ISPs get paid for allowing companies like NebuAd access to their network on a per-user per-active profile basis.
+
+<strong>The Evil
+</strong>Although DPI advertisers privacy policy clearly defines opt in/out regulations, it has not been properly executed and users are being monitored and profiled without their approval or knowledge. The technology now only allows to monitor packets, but also to modify them. What does that mean? That DPI advertisers could overwrite the base advertisement affecting the original advertisers, it could insert advertisement, affecting the content producers, and they are doing all this at the ‘last mile’, which means that the content producers and advertisers would never know that someone is stealing their profits. The worst part is that although DPI advertisers claim not to be able to identify an individual and keep all behavioral analysis anonymous, they do track it back to a household, and the ability of removing anonymity is just a click away. The real scary part is that there is a third party company that knows everything about you, which whom you never signed a contract, and has the freedom to do and sell this information to whoever they wish.
+
+<strong>Good or Evil?
+</strong>DPI can be good and evil at the same time; it has some many advantages to improve experience, but at the same time it is so powerful and scary if it falls in the wrong hands.

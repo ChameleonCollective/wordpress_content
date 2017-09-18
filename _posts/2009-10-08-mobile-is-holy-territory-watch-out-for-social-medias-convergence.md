@@ -1,0 +1,22 @@
+---
+ID: 1145
+post_title: 'Mobile is Holy Territory. Watch Out For Social Media&#8217;s Convergence.'
+author: freddie
+post_excerpt: ""
+layout: post
+permalink: >
+  https://chameleon.co/blog/2009/10/08/mobile-is-holy-territory-watch-out-for-social-medias-convergence/
+published: true
+post_date: 2009-10-08 00:00:00
+---
+<img class="alignnone size-full wp-image-1064" title="mobile holy territory" src="https://takemetoyourleader.com/wp-content/uploads/2009/10/mobile-holy-territory.jpg" alt="mobile holy territory" width="450" height="338" />
+
+Simply put, I'm excited about the potential of mobile marketing and particularly the convergence of social networking and mobile. New capabilities on phones are opening doors to limitless new marketing innovations and, simultaneously, developing countries are having entirely new segments of their population enter the digital world. I spend a lot of time in the day dreaming about how to bring entirely new digital experiences to people, but I think we need to proceed with caution. Marketers, the frequently reckless group of individuals we are, are in danger of screwing it up (again).
+
+<!--more-->
+<p style="padding: 0px; margin: 1.5em 0px 1.5em 0px;">Consider the lessons from social media. One of the factors that caused so many marketers to fail in this space is they forgot basic web etiquette and lost sight that all successful marketing (on the modern web) is some form of value exchange. Consumers must be approached in a way that is not disruptive or disrespectful of their time. Social media was never free -- the buzz created around your brand or people's willingness to come together as a community was earned. They would tolerate a certain amount of advertising if it was a reasonable value exchange.</p>
+<p style="padding: 0px; margin: 1.5em 0px 1.5em 0px;">Mobile, the ever-present digital touch point, is for many of us not only an essential daily tool, but also a place of great privacy and perceived intimacy. We're far more sensitive about the "value exchange" in the mobile world. In addition we don't click ads as often because, in my opinion, we're frequently trying to get quick digital or social experiences on the mobile device in between other events. We have frequent interaction with our mobile devices, but the sessions might be shorter.</p>
+<p style="padding: 0px; margin: 1.5em 0px 1.5em 0px;">Sometimes I like to talk about the "<a style="color: #cc6600;" href="https://takemetoyourleader.com/2008/12/02/paradox-of-interactive-marketing-on-adagecom/" target="_blank" rel="noopener noreferrer">paradox of marketing</a>." As marketers we feel obligated to get our clients/brands where the eyeballs are. We then descend on that thing like vultures and in most cases we destroy that thing we originally loved and saw as an opportunity to reach consumers. (Think George from "Of Mice and Men" with the rabbit.) We're currently in the process of killing Twitter as well.</p>
+<p style="padding: 0px; margin: 1.5em 0px 1.5em 0px;">The next great mobile revolution will be focused on the culmination of social networks, geo-location services, content creation/sharing, augmented reality and the functions that come with rapidly increased bandwidth, such as live streaming video. My fear is that marketers will be irresponsible and will use these technologies to pound consumers with horrible interruptive ads that make consumers revolt against mobile marketing. We've already had epic failures with some marketers' mass SMS broadcasting and then the totally idiotic idea of connecting to discoverable Bluetooth phones when they're in proximity of a broadcast point.</p>
+<p style="padding: 0px; margin: 1.5em 0px 1.5em 0px;">There's so much new technology that has the potential to redefine interaction between brands and consumers, but unfortunately too many of us are still using advertising techniques that we've used for the last century -- and they are primarily disruptive in nature.</p>
+<p style="padding: 0px; margin: 1.5em 0px 1.5em 0px;">The "techies" have done a great job of continuing to innovate and evolve the medium. Now it's time for marketers to show the same passion for innovation and evolve with the medium, rethink our approaches and be respectful of the most intimate of digital touch points. We're marching into holy ground with mobile marketing and if we're not careful a select few of us will ruin it for the rest of us and this time, I don't think consumers will be as forgiving.</p>
