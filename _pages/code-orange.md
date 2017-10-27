@@ -4,7 +4,8 @@ post_title: Code Orange
 author: freddie
 post_excerpt: ""
 layout: page
-permalink: https://chameleon.co/code-orange/
+permalink: >
+  http://f93.f84.mwp.accessdomain.com/code-orange/
 published: true
 post_date: 2015-11-26 12:31:50
 ---
