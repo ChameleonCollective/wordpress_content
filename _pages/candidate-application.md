@@ -5,7 +5,7 @@ author: freddie
 post_excerpt: ""
 layout: page
 permalink: >
-  https://chameleon.co/chameleon-connections/candidate-application/
+  http://f93.f84.mwp.accessdomain.com/chameleon-connections/candidate-application/
 published: true
 post_date: 2015-10-22 00:00:00
 ---
