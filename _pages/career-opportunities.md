@@ -5,7 +5,7 @@ author: freddie
 post_excerpt: ""
 layout: page
 permalink: >
-  https://chameleon.co/chameleon-connections/career-opportunities/
+  http://f93.f84.mwp.accessdomain.com/chameleon-connections/career-opportunities/
 published: true
 post_date: 2015-10-22 00:00:00
 ---
@@ -17,6 +17,6 @@ post_date: 2015-10-22 00:00:00
 <h3><span style="font-weight: 400;">When you’re in the interviewing trenches, we’ll be your advocate — from question prep and positioning to executive coaching to starting strong on your first day. Our goal isn’t just to land you the perfect gig, but also to elevate you and your career.</span></h3>
 <h3></h3>
 <h3><span style="font-weight: 400;">We know you’re much more than your resume, so in order to discover your brilliance, we invite you to apply to your dream job below. If it isn’t listed, submit a general candidate </span></h3>
-If your dream job isn’t listed, submit a general candidate application <a href="https://chameleon.co/chameleon-connections/candidate-application">here</a>.[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][/vc_section][vc_row full_height="yes" row_type="full_width" type="container" bg_select="bg_color_section" css=".vc_custom_1467781556327{margin-right: 300px !important;margin-left: 50px !important;}" border_color="#ebebeb"][vc_column][vc_column_text]
+If your dream job isn’t listed, submit a general candidate application <a href="http://f93.f84.mwp.accessdomain.com/chameleon-connections/candidate-application">here</a>.[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][/vc_section][vc_row full_height="yes" row_type="full_width" type="container" bg_select="bg_color_section" css=".vc_custom_1467781556327{margin-right: 300px !important;margin-left: 50px !important;}" border_color="#ebebeb"][vc_column][vc_column_text]
 <div class="embed-container"><iframe style="overflow: auto; width: 100%; height: 100%; min-height: 650px;" src="https://careers.chameleoncollective.com/recruit/Portal.na?digest=HCTVzo4A6pGt9fjiv81Msjgjwjkyaz8ZkMQbQdbLaAs-" width="100%" height="600" frameborder="0"></iframe></div>
 [/vc_column_text][/vc_column][/vc_row]
