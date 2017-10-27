@@ -5,7 +5,7 @@ author: Ryan Droze
 post_excerpt: ""
 layout: page
 permalink: >
-  https://chameleon.co/chameleon-connections/talent-acquisition/
+  http://f93.f84.mwp.accessdomain.com/chameleon-connections/talent-acquisition/
 published: true
 post_date: 2016-07-07 00:00:00
 ---
