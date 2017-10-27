@@ -4,7 +4,8 @@ post_title: Manifesto
 author: freddie
 post_excerpt: ""
 layout: page
-permalink: https://chameleon.co/
+permalink: >
+  http://f93.f84.mwp.accessdomain.com/manifesto/
 published: true
 post_date: 2017-05-28 05:55:36
 ---
