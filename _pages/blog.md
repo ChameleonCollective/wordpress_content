@@ -1,11 +1,11 @@
 ---
 ID: 1806
-post_title: Take Me To Your Leader Blog
+post_title: Blog
 author: freddie
 post_excerpt: ""
 layout: page
 permalink: >
-  http://f93.f84.mwp.accessdomain.com/take-me-to-your-leader-blog/
+  http://f93.f84.mwp.accessdomain.com/blog/
 published: true
 post_date: 2016-08-08 00:00:00
 ---
