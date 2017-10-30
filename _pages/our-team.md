@@ -1,11 +1,11 @@
 ---
 ID: 5168
-post_title: Partners
+post_title: Our Team
 author: freddie
 post_excerpt: ""
 layout: page
 permalink: >
-  http://f93.f84.mwp.accessdomain.com/chameleon-collective/chameleon-collective-partners-2/
+  http://f93.f84.mwp.accessdomain.com/chameleon-collective/our-team/
 published: true
 post_date: 2017-10-30 02:02:06
 ---
