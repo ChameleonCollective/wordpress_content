@@ -5,7 +5,7 @@ author: freddie
 post_excerpt: ""
 layout: page
 permalink: >
-  https://chameleon.co/chameleon-collective/chameleon-collective-partners/partner-profile/
+  http://f93.f84.mwp.accessdomain.com/team-profile/
 published: true
 post_date: 2016-05-18 00:00:00
 ---
