@@ -1,11 +1,11 @@
 ---
 ID: 1621
-post_title: Chameleon Connections
+post_title: Recruiting
 author: freddie
 post_excerpt: ""
 layout: page
 permalink: >
-  http://f93.f84.mwp.accessdomain.com/chameleon-connections/
+  http://f93.f84.mwp.accessdomain.com/recruiting/
 published: true
 post_date: 2015-10-22 00:00:00
 ---
