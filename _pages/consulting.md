@@ -1,18 +1,18 @@
 ---
-ID: 1807
-post_title: Chameleon Collective
+ID: 5176
+post_title: Consulting
 author: freddie
 post_excerpt: ""
 layout: page
 permalink: >
-  https://chameleon.co/chameleon-collective/
+  http://f93.f84.mwp.accessdomain.com/consulting/
 published: true
-post_date: 2017-01-24 00:00:00
+post_date: 2017-10-31 04:40:40
 ---
-[vc_row full_height="yes" row_type="full_width" color_overlay="#434343" css=".vc_custom_1467258926770{padding-top: 0px !important;padding-bottom: 0px !important;}" el_class="hero_row"][vc_column css=".vc_custom_1467258912347{padding-top: 0px !important;padding-bottom: 0px !important;}"][row_scroll exit="stick"][rev_slider_vc alias="cc-home-hero"][/vc_column][/vc_row][vc_section css=".vc_custom_1495594012431{background-image: url(https://chameleon.co/wp-content/uploads/2017/01/cc-home-elevator-bg.jpg?id=3178) !important;}" el_class="cc-home-deck"][vc_row 0=""][vc_column el_class="container container_boot"][vc_row_inner el_class="cc_deck_line"][vc_column_inner el_class="cc_deck_icon_col" width="1/6" offset="vc_col-md-2"][vc_single_image image="3197" img_size="" el_class="cc_deck_icon"][/vc_column_inner][vc_column_inner width="5/6" offset="vc_col-md-10"][vc_column_text 0=""]
+[vc_row full_height="yes" row_type="full_width" color_overlay="#434343" css=".vc_custom_1467258926770{padding-top: 0px !important;padding-bottom: 0px !important;}" el_class="hero_row"][vc_column css=".vc_custom_1467258912347{padding-top: 0px !important;padding-bottom: 0px !important;}"][row_scroll exit="stick"][rev_slider_vc alias="cc-home-hero"][/vc_column][/vc_row][vc_section css=".vc_custom_1495594012431{background-image: url(http://f93.f84.mwp.accessdomain.com/wp-content/uploads/2017/01/cc-home-elevator-bg.jpg?id=3178) !important;}" el_class="cc-home-deck"][vc_row 0=""][vc_column el_class="container container_boot"][vc_row_inner el_class="cc_deck_line"][vc_column_inner el_class="cc_deck_icon_col" width="1/6" offset="vc_col-md-2"][vc_single_image image="3197" img_size="" el_class="cc_deck_icon"][/vc_column_inner][vc_column_inner width="5/6" offset="vc_col-md-10"][vc_column_text 0=""]
 <h2 class="padded-header"><span style="color: #f78d1e;"><strong>CHANGE STARTS NOW</strong></span></h2>
 <h5 class="padded-multiline"><em>Chameleon Collective was founded to build and grow great companies. We are senior executives, entrepreneurs and change-makers who not only define the strategy, but help you execute. We drive marketing, business development, and innovation across the media, retail, and technology sectors.</em></h5>
-[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1495598769402{background-image: url(https://chameleon.co/wp-content/uploads/2017/01/cc-home-deck-bg.png?id=3212) !important;}" el_class="cc-home-deck"][vc_row 0="" el_class="cc_deck_line"][vc_column el_class="container container_boot"][vc_row_inner el_class="cc_deck_line"][vc_column_inner el_class="cc_deck_icon_col" width="1/6" offset="vc_col-md-2"][vc_single_image image="3223" img_size="" el_class="cc_deck_icon"][/vc_column_inner][vc_column_inner width="5/6" offset="vc_col-md-10"][vc_column_text 0=""]
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1495598769402{background-image: url(http://f93.f84.mwp.accessdomain.com/wp-content/uploads/2017/01/cc-home-deck-bg.png?id=3212) !important;}" el_class="cc-home-deck"][vc_row 0="" el_class="cc_deck_line"][vc_column el_class="container container_boot"][vc_row_inner el_class="cc_deck_line"][vc_column_inner el_class="cc_deck_icon_col" width="1/6" offset="vc_col-md-2"][vc_single_image image="3223" img_size="" el_class="cc_deck_icon"][/vc_column_inner][vc_column_inner width="5/6" offset="vc_col-md-10"][vc_column_text 0=""]
 <h2 class="padded-header"><span style="color: #f78d1e;"><strong>CREATING 'THE NEW'</strong></span></h2>
 <h3 class="padded-multiline"><em><span style="color: #ffffff;">All of the experts and execs who’ve joined us did so to create a new kind of company, one flexible enough to fit your needs. Chameleon Collective is rewriting the owner’s guide to running a successful business. Read what we do and how we do it.
 </span></em></h3>
