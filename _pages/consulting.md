@@ -34,7 +34,7 @@ post_date: 2017-10-31 04:40:40
 <h3 style="text-align: center;">TECHNOLOGY</h3>
 [/vc_column_text][vc_column_text 0=""]Sustainable Growth Beyond the Startup Phase
 
-<strong><a href="https://chameleoncollective.com/practices/technology/">Learn More</a></strong>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_empty_space height="100px"][/vc_column][/vc_row][/vc_section][vc_row row_type="full_width" type="container" p_top="30" p_bottom="30" el_class="brands" bg_color="#0b0b0b"][vc_column 0=""][vc_column_text el_class="brands_header"]
+<strong><a href="https://chameleoncollective.com/practices/technology/">Learn More</a></strong>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_empty_space height="100px"][/vc_column][/vc_row][/vc_section][vc_row row_type="full_width" type="container" p_top="30" p_bottom="30" el_class="brands"][vc_column 0=""][vc_column_text el_class="brands_header"]
 <h2 class="h1" style="text-align: center;">CLIENTS WE WORK WITH</h2>
 [/vc_column_text][indeed-clients limit="21" theme="theme_2" columns="7" align_center="0" item_height="" slider_set="0" items_per_slide="6" slide_speed="4000" slide_pagination_speed="1000" slide_opt="bullets,nav_button,autoplay,stop_hover,responsive,autoheight,loop,lazy_load" pagination_theme="pag-theme3" animation_in="fadeIn" animation_out="fadeOut" filter_set="1" filter_select_t="small_text" filter_align="left" layout_mode="masonry" order_by="rand"][/vc_column][/vc_row][vc_section content_placement="middle" css=".vc_custom_1497281110357{background-color: #ffffff !important;}" el_class="cc-home-deck"][vc_row el_class="container container_boot" p_top="25px"][vc_column 0=""][vc_empty_space height="65px"][vc_column_text 0=""]
 <h2 style="text-align: center;">OUR TEAMS</h2>
