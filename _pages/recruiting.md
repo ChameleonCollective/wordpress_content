@@ -22,10 +22,10 @@ post_date: 2015-10-22 00:00:00
 <h3 style="text-align: center;">For Employers</h3>
 <p style="text-align: center;">Let us help connect your company to the right person</p>
 [/vc_column_text][vc_column_text]
-<p style="text-align: center;"><strong><a href="https://chameleonconnections.com/talent-acquisition/">Tap Into Brilliance</a></strong></p>
+<p style="text-align: center;"><strong><a href="http://f93.f84.mwp.accessdomain.com/recruiting/talent-acquisition/">Tap Into Brilliance</a></strong></p>
 [/vc_column_text][/vc_column_inner][vc_column_inner offset="vc_col-md-offset-0 vc_col-md-5"][vc_column_text]
 <h3 style="text-align: center;">For Candidates</h3>
 <p style="text-align: center;">We can find the company to fit your skills, personality and goals</p>
 [/vc_column_text][vc_column_text]
-<p style="text-align: center;"><strong><a href="https://chameleonconnections.com/candidate-application/">Apply Your Brilliance</a></strong></p>
+<p style="text-align: center;"><strong><a href="http://f93.f84.mwp.accessdomain.com/recruiting/candidate-application/">Apply Your Brilliance</a></strong></p>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_empty_space height="80px"][/vc_column][/vc_row][/vc_section]
