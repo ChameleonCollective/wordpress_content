@@ -42,7 +42,7 @@ post_date: 2017-01-24 00:00:00
 
 Our executive leadership team executes on the highest level<span style="font-weight: 400;">, providing you with deep subject matter experience &amp; industry relationships.</span>[/vc_column_text][/vc_column_inner][vc_column_inner offset="vc_col-md-4"][vc_column_text 0=""]MARKETING
 
-<span style="font-weight: 400;">Our team of senior marketers operate from all discovery phases to full implementation, transforming businesses by leveraging our specialists with both strategy &amp; </span>executional capabilities.[/vc_column_text][/vc_column_inner][vc_column_inner offset="vc_col-md-4"][vc_column_text 0=""]RECRUITING
+<span style="font-weight: 400;">Our team of senior marketers operate from discovery phases to full implementation, transforming businesses by leveraging our specialists with both strategy &amp; </span>executional capabilities.[/vc_column_text][/vc_column_inner][vc_column_inner offset="vc_col-md-4"][vc_column_text 0=""]RECRUITING
 <p class="p1">We provide you with full access to in-demand talent - and of the highest quality. We don’t just check boxes, we ensure you have a candidate committed to your company’s growth and culture.</p>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_empty_space height="65px"][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1497280666724{background-color: #fbfbfb !important;}"][vc_row el_class="container container_boot"][vc_column][vc_column_text]
 <h2 style="text-align: center;">FEATURED PARTNERS</h2>
